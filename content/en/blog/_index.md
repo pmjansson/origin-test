@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Securography Blog"
 linkTitle: "Blog"
 menu:
   main:
@@ -7,7 +7,7 @@ menu:
 ---
 
 
-This is the **blog** section. It has two categories: News and Releases.
+This is the **blog** section. It has a single category: Articles.
 
 Files in these directories will be listed in reverse chronological order.
 
